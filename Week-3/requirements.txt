@@ -1,0 +1,8 @@
+torch
+torchdata
+transformers
+datasets
+evaluate
+rouge_score
+peft
+trl
